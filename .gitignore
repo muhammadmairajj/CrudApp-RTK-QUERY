@@ -26,3 +26,5 @@ src/components/Photos
 src/components/Posts
 src/features
 abc.txt
+# Local Netlify folder
+.netlify
