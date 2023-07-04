@@ -1,0 +1,30 @@
+.form-control{
+    width: 50%;
+}
+
+.form-label {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.row {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.new_create_post {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+
+/* https://aguidehub.com/blog/how-to-hide-arrows-from-input-number-in-react/?expand_article=1 */
